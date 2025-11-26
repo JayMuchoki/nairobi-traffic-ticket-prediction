@@ -1,7 +1,3 @@
-
-
-### 🔗 **Streamlit App:** [https://nairobi-traffic-ticket-prediction.streamlit.app/](https://nairobi-traffic-ticket-prediction.streamlit.app/)
-
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://nairobi-traffic-ticket-prediction.streamlit.app/)
 
 # 🚦 **Traffic Movement into Nairobi – Passenger Prediction App**
@@ -163,3 +159,4 @@ Jay Muchoki
 ---
 
 Let me know if you'd like badges, improved formatting, or automatic GIF screenshots added!
+
