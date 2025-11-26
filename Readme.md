@@ -60,6 +60,9 @@ The dataset contained:
 
 * Encoding categorical variables (vehicle type, region, holiday).
 * Handling numerical features (time of day, date-based patterns).
+* Handling numerical features
+* Scaling numerical variables using StandardScaler to normalize values and improve model performance
+
 
 ---
 
@@ -156,7 +159,4 @@ Access the deployed Streamlit application here:
 
 Jay Muchoki
 
----
-
-Let me know if you'd like badges, improved formatting, or automatic GIF screenshots added!
 
