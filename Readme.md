@@ -1,6 +1,12 @@
-# Traffic Movement into Nairobi: Analysis & Passenger Prediction
 
-<img width="2328" height="1091" alt="image" src="https://github.com/user-attachments/assets/84c171e5-2004-4c1a-8b0d-d016db4b6065" />
+
+### 🔗 **Streamlit App:** [https://nairobi-traffic-ticket-prediction.streamlit.app/](https://nairobi-traffic-ticket-prediction.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://nairobi-traffic-ticket-prediction.streamlit.app/)
+
+# 🚦 **Traffic Movement into Nairobi – Passenger Prediction App**
+
+<img width="2328" height="1091" alt="image" src="https://github.com/user-attachments/assets/9cde0dae-e0d7-4ac5-bfad-219d00c8aff6" />
 
 
 ## 📌 Project Overview
@@ -140,9 +146,6 @@ Understanding passenger flow patterns is essential for reducing congestion in Na
 
 The Streamlit app acts as a practical tool for transport operators to make data-driven decisions in real time.
 
----
-
-
 
 ---
 
@@ -157,4 +160,6 @@ Access the deployed Streamlit application here:
 
 Jay Muchoki
 
+---
 
+Let me know if you'd like badges, improved formatting, or automatic GIF screenshots added!
